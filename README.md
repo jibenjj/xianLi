@@ -1,1 +1,4 @@
 # xianLi
+直接下载xianli.zip
+前端的代码有点过时了 后面都是用postman来做接口测试的
+记得连上3个redis做分布式multilock
